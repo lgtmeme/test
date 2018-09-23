@@ -1,5 +1,7 @@
 {
+  version: "0.0.1",
+  content: [
+    { "name": "derp", "url": "urlll" },
+     {"name": "derp2", "url": "uralll" }
+  ]
 }
-something new 2
-something new 3
-something new 4
