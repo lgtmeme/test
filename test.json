@@ -1,7 +1,17 @@
 {
-  "version": "0.0.1",
   "content": [
-    { "name": "derp", "url": "urlll" },
-     {"name": "derp2", "url": "uralll" }
-  ]
+    {
+      "name": "derp",
+      "url": "urlll"
+    },
+    {
+      "name": "derp2",
+      "url": "uralll"
+    },
+    {
+      "name": "justright 2",
+      "url": "google.com"
+    }
+  ],
+  "version": "0.0.1"
 }
