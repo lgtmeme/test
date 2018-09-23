@@ -1,6 +1,6 @@
 {
-  version: "0.0.1",
-  content: [
+  "version": "0.0.1",
+  "content": [
     { "name": "derp", "url": "urlll" },
      {"name": "derp2", "url": "uralll" }
   ]
